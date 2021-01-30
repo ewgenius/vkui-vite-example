@@ -1,0 +1,24 @@
+{
+  "name": "vkui-vite-sample",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vkontakte/icons": "^1.74.0",
+    "@vkontakte/vk-bridge": "^2.4.0",
+    "@vkontakte/vkjs": "^0.20.0",
+    "@vkontakte/vkui": "^4.0.8",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "typescript": "^4.1.2",
+    "vite": "^2.0.0-beta.50"
+  }
+}
